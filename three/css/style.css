@@ -1,0 +1,54 @@
+body {
+  background-color:black;
+}
+
+#container {
+  width:914px;
+  height:1102px;
+  margin:0 auto;
+  background-color:white;
+}
+
+#purple {
+  height:127px;
+  width:100%;
+  background-color:purple;
+}
+
+#red {
+  background-color:red;
+  height:940px;
+  width:549px;
+  margin:0 auto;
+  padding-top:35px;
+  padding-left:95px;
+  padding-right:0 auto;
+  overflow:hidden;
+}
+
+.blue {
+  background-color:blue;
+  width:450px;
+  height:250px;
+  margin-top:38px;
+}
+
+.floater {
+  margin-top:25px;
+  float:left;
+}
+
+.yellow {
+  background-color:yellow;
+  height:125px;
+  width:125px;
+  margin-left:25px;
+  margin-right:20px;
+}
+
+.green {
+  background-color:green;
+  height:175px;
+  width:250px;
+  margin-right:25px;
+}

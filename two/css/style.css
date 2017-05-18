@@ -1,0 +1,40 @@
+body {
+  background-color:gray;
+}
+
+#container {
+  width:942px;
+  height:872px;
+  margin:0 auto;
+}
+
+.hf {
+  height:110px;
+}
+
+.mid {
+  width:314px;
+  height:652px;
+  float:left;
+}
+
+#red {
+  background-color:red;
+}
+
+#blue {
+  background-color:blue;
+}
+
+#purple {
+  background-color:purple;
+}
+
+#yellow {
+  background-color:yellow;
+}
+
+#green {
+  background-color:green;
+  clear:both;
+}
